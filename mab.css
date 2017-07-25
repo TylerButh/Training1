@@ -2,9 +2,16 @@ body {
 	background-image: url("hi.jpg");
 	background-size: cover;
 	text-align: left;
-	color:blue; 			
-	font-size: 198%;
-h1 {
-	background-color: red;
-	
-}	
+	color:white; 	
+    font-size: 50px;
+   }	
+.text {
+	opacity: 0.8;
+}
+ul {
+	list-style: none;
+}
+a {
+	color: white;
+	text-decoration: none;
+}
