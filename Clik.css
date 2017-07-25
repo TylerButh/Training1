@@ -52,7 +52,7 @@ body {
 }
 
 .picture:hover .image {
-  opacity: 0.3;
+  opacity: 0.7;
 }
 
 .picture:hover .middle {
@@ -81,21 +81,21 @@ body {
 left: 0;
 }
 .name {
-	top: 500px;
+	top: 250px;
 	background-color: #4caf50;
 	text-align: center;
 }
 .want {
-	top: 600px;
+	top: 350px;
 	background-color: #2196f3;
 	text-align: center;
 }
 .learn {
-	top: 700px;
+	top: 450px;
 	background-color: #f44336;
 	text-align: center;
 }
 .study {
-	top: 800px;
+	top: 550px;
 	background-color: #555;
 }
