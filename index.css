@@ -1,0 +1,29 @@
+body {
+	background-image: url("lol1.jpg");
+	background-size: cover;
+	color: #b3ffb3;
+}
+p {
+	font-size: 100px;
+	font-family: Brush Script Std, Brush Script MT, cursive;
+	text-align: center;
+}
+h1 {
+	text-align: center;
+	padding-top: 20px;
+}
+a {
+	color:#664400;
+	font-weight: 900px;
+	font-family: OCR A Std, monospace;
+	font-size: 50px;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: #996600;
+	background-color: #fff5cc;
+	opacity: 0.6;
+	border-radius: 10px;
+  transition: 2s;
+}
