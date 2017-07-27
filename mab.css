@@ -2,9 +2,9 @@ body {
 	background-image: url("hi.jpg");
 	background-size: cover;
 	text-align: left;
-	color:white; 	
+	color:white;
     font-size: 50px;
-   }	
+   }
 .text {
 	opacity: 0.8;
 }
@@ -14,4 +14,41 @@ ul {
 a {
 	color: white;
 	text-decoration: none;
+}
+
+
+#mySidenav a {
+    position: absolute;
+    left: -450px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 500px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+}
+
+#mySidenav a:hover {
+    left: 0;
+}
+
+#about {
+    top: 100px;
+    background-color: #4CAF50;
+}
+
+#blog {
+    top: 200px;
+    background-color: #2196F3;
+}
+
+#projects {
+    top: 300px;
+    background-color: #f44336;
+}
+
+#contact {
+    top: 400px;
+    background-color: #555
 }
