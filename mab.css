@@ -80,25 +80,29 @@ body {
 	opacity: 0.7
 }
 .content h2:hover {
-left: 0;
+left: 10;
 }
 .name {
-	top: 500px;
+	top: 600px;
 	background-color: #4caf50;
 	text-align: center;
 }
 .want {
-	top: 600px;
+	top: 700px;
 	background-color: #2196f3;
 	text-align: center;
 }
 .learn {
-	top: 700px;
+	top: 800px;
 	background-color: #f44336;
 	text-align: center;
 }
 .study {
-	top: 800px;
+	top: 900px;
 	background-color: #555;
 }	
-
+.yasuo {
+	top: 1000px;
+	background-color:  #993399;
+}
+	
