@@ -1,6 +1,6 @@
 body {
 	margin: 0 auto;
-	background-image: url("mineblox.jpg")
+	background-image: url("yasuo1.jpg")
 	selector:pseudo-class {
     property:value;
 }
@@ -103,4 +103,6 @@ left: 0;
 .study {
 	top: 550px;
 	background-color: #55;
+	text-align: center;
+	background-color: red;
 }
